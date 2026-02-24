@@ -1,11 +1,15 @@
-{
-  "name": "rngplus",
-  "version": "1.0.0",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build": "echo \"No build step required\""
-  }
-}
-
-
+diff --git a/batch/package.json b/batch/package.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..dd9b721a9e6a64a88fb6bccd8b4702c034369c4b
+--- /dev/null
++++ b/batch/package.json
+@@ -0,0 +1,9 @@
++{
++  "name": "rngplus",
++  "version": "1.0.0",
++  "private": true,
++  "type": "module",
++  "scripts": {
++    "build": "echo \"No build step required\""
++  }
++}
