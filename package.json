@@ -1,5 +1,13 @@
-{
-  "name": "rngplus",
-  "version": "1.0.0",
-  "private": true
-}
+diff --git a/package.json b/package.json
+index 278c0146c04ad4af74f8e2c0c4a129cdbc85d53e..c85b28817c254abe260c36b6fa010d2370974960 100644
+--- a/package.json
++++ b/package.json
+@@ -1,5 +1,6 @@
+ {
+   "name": "rngplus",
+   "version": "1.0.0",
+-  "private": true
++  "private": true,
++  "type": "module"
+ }
+
